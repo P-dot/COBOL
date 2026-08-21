@@ -1,0 +1,18 @@
+ISPF 3.4
+  IBMUSER.COBOL.SRC
+  Member: COBLAB01
+
+ISPF 3.4
+  IBMUSER.ML.JCL
+  Member: COBLAB01
+
+Submit from ISPF editor:
+  SUB
+
+Review in SDSF:
+  SDSF
+  ST
+  S  COBLAB01
+
+Expected program output:
+  FIRST COBOL PROGRAM LAB
