@@ -1,0 +1,1 @@
+Part 2 completed and validated: EVALUATE, WHEN OTHER, level 88 and SET condition-name TO TRUE.
