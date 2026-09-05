@@ -1,0 +1,1 @@
+Part 3 completed and validated: MOVE CORRESPONDING and qualified data-names. RC=0000.

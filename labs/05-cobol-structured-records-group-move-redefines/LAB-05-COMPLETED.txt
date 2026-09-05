@@ -1,0 +1,1 @@
+Lab 05 complete: Parts 1-4 validated. Compilation, link-edit and execution RC=0000.
