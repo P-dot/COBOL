@@ -3,7 +3,7 @@
 ## Status
 **Parts 3 and 4 completed and validated. Lab 04 is technically complete.**
 
-This package is an additive continuation of the already published Parts 1 and 2. It must not delete or overwrite their documentation or evidence.
+This directory contains Parts 3 and 4 of Lab 04 as a separate publication unit. Parts 1 and 2 remain unchanged in the original Lab 04 directory.
 
 ## Part 3 — MOVE CORRESPONDING
 Scope:
@@ -66,8 +66,8 @@ IBMUSER.COBOL.LOAD(GROUP05)
 
 `cobol/GROUP05-final.cbl` contains the final cumulative Parts 1–4 source.
 
-## Preservation rule
-When installing this continuation, preserve:
+## Separation rule
+Parts 1 and 2 remain in the separate original Lab 04 directory:
 ```text
 README.md
 docs/part-01-theory.md
@@ -78,3 +78,6 @@ PART-01-COMPLETED.txt
 PART-02-COMPLETED.txt
 ```
 Parts 3 and 4 are added alongside them; they do not replace them.
+
+
+This directory must not be merged into the Part 1+2 directory.
