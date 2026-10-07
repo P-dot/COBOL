@@ -358,3 +358,14 @@ Evidence should remain technically useful after sanitization.
 [RACF Security](https://github.com/P-dot/mainframe-racf-security-evidence)
 
 > Part of the **IBM z/OS Mainframe Engineering Portfolio** — an independent hands-on environment focused on systems, operations, development, security, automation, diagnostics, recovery, and integration.
+
+
+---
+
+## z/OS Engineering Academy
+
+**Academy role:** Development School — application logic that consumes z/OS batch, VSAM, Db2 and CICS services.
+
+[Start the Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Course Catalog](https://github.com/P-dot/P-dot/blob/main/docs/COURSES.md) · [Curriculum Graph](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md) · [Cross-Domain Relationships](https://github.com/P-dot/P-dot/blob/main/docs/RELATIONSHIPS.md)
+
+> Learn the concept → execute the lab → interpret the evidence → understand the subsystem boundary → continue to the next connected course.
