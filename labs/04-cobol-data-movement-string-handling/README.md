@@ -112,3 +112,12 @@ EVALUATE
   -> Level 88
   -> SET ... TO TRUE
 ```
+
+
+---
+### Continue learning
+
+**Previous:** [03-cobol-accept-display-runtime-input-output](../03-cobol-accept-display-runtime-input-output/)  
+**Course:** [Course home](../../README.md)  
+**Next:** [04-part-03-04-move-corresponding-initialize](../04-part-03-04-move-corresponding-initialize/)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)

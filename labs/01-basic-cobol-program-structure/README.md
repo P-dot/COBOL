@@ -58,3 +58,12 @@ This confirms that the source was processed through the compile/link/run workflo
 ## Difference from the companion portfolio
 
 The companion repository focuses on establishing and validating the COBOL/DB2/CICS development environment. This repository starts from that working environment and focuses on progressively learning COBOL syntax and program structure.
+
+
+---
+### Continue learning
+
+**Previous:** Course introduction  
+**Course:** [Course home](../../README.md)  
+**Next:** [02-cobol-data-definition-picture-level-numbers](../02-cobol-data-definition-picture-level-numbers/)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)

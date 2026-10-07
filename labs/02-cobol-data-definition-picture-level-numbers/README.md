@@ -102,3 +102,12 @@ See [`docs/class-02.md`](docs/class-02.md) for the expanded class notes that fol
 ## Relationship to Lab 01
 
 Lab 01 established the basic COBOL program and compile/link/run workflow. Lab 02 deliberately reuses that workflow and moves the learning focus to COBOL data definition and record structure.
+
+
+---
+### Continue learning
+
+**Previous:** [01-basic-cobol-program-structure](../01-basic-cobol-program-structure/)  
+**Course:** [Course home](../../README.md)  
+**Next:** [03-cobol-accept-display-runtime-input-output](../03-cobol-accept-display-runtime-input-output/)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)

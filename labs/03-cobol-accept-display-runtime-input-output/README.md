@@ -44,3 +44,12 @@ See `evidence/screenshots/`.
 ## Theory
 
 See `docs/class-03.md`.
+
+
+---
+### Continue learning
+
+**Previous:** [02-cobol-data-definition-picture-level-numbers](../02-cobol-data-definition-picture-level-numbers/)  
+**Course:** [Course home](../../README.md)  
+**Next:** [04-cobol-data-movement-string-handling](../04-cobol-data-movement-string-handling/)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)

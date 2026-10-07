@@ -81,3 +81,12 @@ Parts 3 and 4 are added alongside them; they do not replace them.
 
 
 This directory must not be merged into the Part 1+2 directory.
+
+
+---
+### Continue learning
+
+**Previous:** [04-cobol-data-movement-string-handling](../04-cobol-data-movement-string-handling/)  
+**Course:** [Course home](../../README.md)  
+**Next:** [Choose the next Academy course](https://github.com/P-dot/P-dot/blob/main/docs/COURSES.md)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)
